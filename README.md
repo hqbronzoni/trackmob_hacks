@@ -4,6 +4,8 @@ Arquivos individuais com scripts para alterar o comportamento da ficha de doaç�
 
 Hacks desenvolvidos por https://fundraising.red. Contato via *dev@fundraising.red*.
 
+# instruções
+
 **Páginas de "3 Passos"**
 
 Utilizar apenas os arquivos que começam com *multisteps_*.
